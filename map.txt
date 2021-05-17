@@ -1,0 +1,9 @@
+  #    Name          Street1       Street2
+  89   Police        Drexel        Carrollton
+  37   Science       Drexel        Short
+   7   Library       Short         Howard
+   8   Chapel        Howard        Pine
+  17   UC            Broadway      Drexel
+  40   XUS           Dixon         NCF
+  51   Art           Pine          Palm
+  61   Convocation   Pine          Short
